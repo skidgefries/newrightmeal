@@ -939,15 +939,11 @@ QLineEdit {font: #161514;}
                      <property name="styleSheet">
                       <string notr="true">QComboBox{background:#ffffff};</string>
                      </property>
-<<<<<<< HEAD
-                     <property name="editable">
-                      <bool>false</bool>
-                     </property>
-                     <property name="currentText">
-                      <string>Male</string>
-                     </property>
-=======
->>>>>>> 9c45051d89e28a1fbc2de6a115ba3e4264411c2b
+                     <item>
+                      <property name="text">
+                       <string/>
+                      </property>
+                     </item>
                      <item>
                       <property name="text">
                        <string>Male</string>
