@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>back.png</file>
+        <file>logo</file>
+        <file>about.png</file>
+        <file>Help.png</file>
+        <file>025-lock.png</file>
+        <file>user.png</file>
+        <file>body-fat-man.png</file>
+        <file>body-fat-woman.png</file>
+    </qresource>
+</RCC>
